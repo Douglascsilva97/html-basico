@@ -1,4 +1,4 @@
-HTML Cat Form (atualizando para treinar o push no git)
+HTML Cat Form
 
 Este é um projeto prático do curso FreeCodeCamp que demonstra como criar um formulário simples usando HTML.
 
